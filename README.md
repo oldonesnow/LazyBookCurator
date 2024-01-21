@@ -13,4 +13,4 @@
 #### 4. Length of book
 
 ## Initial plan for the project
-To create a book application that can be used by users to provide a personalised recommendation of books based on their inputs for the categories mentioned above. However there were several challenges faced in the process of the creation therefore, we have reduced it to a web app with a similar function. The application is still in progress and we will continue developing it.
+To create a book application that can be used by users to provide a personalised recommendation of books based on their inputs for the categories mentioned above. However there were several challenges faced in the process of the creation therefore, we have reduced it to a web app with a similar function. The application is still in progress and we will continue to develop it.
